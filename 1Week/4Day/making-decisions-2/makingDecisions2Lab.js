@@ -165,7 +165,7 @@ for (let i = 4; i >= 0; i--) {
   console.log(letters[i])
 }
 
-// for (let i = letters.length - 1; i > -1; i--)
+// for (let i = letters.length - 1; i > -1; i--) ......do this if someone adds letters down the road so code still works
 
 
 ////////// Advanced Problems //////////
